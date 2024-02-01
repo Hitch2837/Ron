@@ -1,0 +1,17 @@
+"InstallScript"
+{
+	"Run Process"
+	{
+		"Unreal Engine Redistributables"
+		{
+			"HasRunKey"		"HKEY_LOCAL_MACHINE\\Software\\Valve\\Steam\\Apps\\1144201"
+			"Process 1"		"%INSTALLDIR%\\Engine\\Extras\\Redist\\en-us\\UE4PrereqSetup_x64.exe"
+			"Command 1"		"/q"
+			"NoCleanUp"		"1"
+		}
+	}
+}
+"kvsignatures"
+{
+	"InstallScript"		"177a645870cac8ab2353b1e5047358ea8e7473ca17922ee0fd13d38c4bed2f07b0771bce59098faad42b4b9147fe6fd8d8527b2243308501ee3b0d2698393e67d3336a5ef57470567b1ef4271a40085e0abf707025f3f8e92abc1e9e412286ec45a43516998b721a57f721771a7578382ad84e9714f2e8c57826c03c9afdc0de"
+}
